@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=.NET+Developer;ASP.NET+Learner;Love+Coding+%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Developer+from+India;Learning+MCA;Future+Software+Engineer)
 
 # Hi 👋 I'm Suvajit Poria  
  .NET Developer | Love Coding
